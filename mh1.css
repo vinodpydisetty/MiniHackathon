@@ -226,7 +226,7 @@ hr{
     line-height: 140%; /* 22.4px */
 }
 
-@media screen and (max-width:800px){
+@media screen and (max-width:414px){
     body{
         margin: 0;
         padding: 0;
